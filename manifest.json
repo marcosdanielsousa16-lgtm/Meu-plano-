@@ -1,0 +1,9 @@
+{
+  "name": "Meu Plano",
+  "short_name": "Meu Plano",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101014",
+  "theme_color": "#101014",
+  "description": "Seu organizador pessoal"
+}
